@@ -22,6 +22,7 @@ h1 {
     background-position: left;
     background-size: contain;
     display: flex;
+    margin-bottom: 86px;
 
 }
 
@@ -36,7 +37,7 @@ h1 {
 }
 
 .heroright-side img {
-    width: 90%;
+    width: 100%;
 }
 
 .link-button {
@@ -55,6 +56,7 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 86px;
 
 }
 
@@ -74,3 +76,51 @@ h1 {
 }
 
 /* section dream */
+/* section ex */
+.section-experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.ex-sub {
+    margin-bottom: 100px;
+    display: flex;
+}
+
+.ex-left {
+    box-shadow: 10px 10px 30px gray;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 40%;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 7px solid tomato;
+
+
+}
+
+.ex-right {
+    box-shadow: 10px 10px 30px gray;
+
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 40%;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 7px solid blue;
+
+
+}
+
+h2 {
+
+    font-size: 40px;
+}
+
+#foot {
+    text-align: center;
+}
+
+/* section ex */
