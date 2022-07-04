@@ -20,8 +20,8 @@ h1 {
 .sectionhero {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    background-position: left;
-    background-size: contain;
+    background-position: top left;
+
     display: flex;
     padding-bottom: 100px;
     overflow: hidden;
